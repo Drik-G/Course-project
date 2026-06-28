@@ -2,8 +2,8 @@ public class GraduateStudent extends Student {
     private String Topic;
 
     // Constructor super()
-    public GraduateStudent(String studentID, String name, String department, double gpa, String Topic) {
-        super(studentID, name, department, gpa);
+    public GraduateStudent(String StudentID, String Name, String Department, double GPA, String Topic) {
+        super(StudentID, Name, Department, GPA);
         this.Topic = Topic;
     }
 
