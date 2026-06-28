@@ -8,5 +8,5 @@ public class GraduateStudent extends Student {
     }
 
     public String getTopic() { return Topic; }
-    public void setTopic(String thesisTopic) { this.Topic = thesisTopic; }
+    public void setTopic(String Topic) { this.Topic = Topic; }
 }
